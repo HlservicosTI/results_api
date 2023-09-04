@@ -18,6 +18,7 @@ exceptiongroup==1.1.2
 facebook-business==17.0.4
 Flask==2.3.3
 frozenlist==1.4.0
+gunicorn==19.7.1
 h11==0.14.0
 idna==3.4
 isort==5.12.0
