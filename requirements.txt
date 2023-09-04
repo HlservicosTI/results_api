@@ -29,7 +29,7 @@ MarkupSafe==2.1.3
 mccabe==0.7.0
 multidict==6.0.4
 outcome==1.2.0
-pandas==2.1.0
+pandas==2.0.3
 platformdirs==3.10.0
 pycodestyle==2.11.0
 pycountry==22.3.5
